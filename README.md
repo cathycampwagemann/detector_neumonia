@@ -3,6 +3,7 @@ Es una API que sirve para detectar neumonía en radiografías de tórax
 
 # Instalación
 Se debe crear un entorno virtual limpio
+
 Se deben instalar las siguientes librerías:
 pip install Flask
 pip install opencv-python
