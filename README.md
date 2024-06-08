@@ -13,6 +13,7 @@ pip install requests
 # Ejemplo de uso
 
 carpeta_principal_imagenes = # Indica la ruta donde están las imágenes
+
 nombre_imagenes = # Indica el nombre de la imagen
 
 if __name__ == "__main__":
